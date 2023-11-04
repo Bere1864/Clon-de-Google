@@ -1,2 +1,2 @@
 # Clon-de-Google
-Clon de Google rralziado con HTML y CSS
+Clon de Google realziado con HTML y CSS
